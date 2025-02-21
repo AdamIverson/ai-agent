@@ -24,5 +24,18 @@
     "tsx": "^4.19.2",
     "uuid": "^11.0.2",
     "zod": "^3.23.8"
-  }
+  },
+  "description": "[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/ai-agents/) # Build an AI Agent from Scratch Workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamIverson/ai-agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamIverson/ai-agent/issues"
+  },
+  "homepage": "https://github.com/AdamIverson/ai-agent#readme"
 }
