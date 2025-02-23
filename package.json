@@ -11,7 +11,8 @@
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
-    "@types/express": "^4.17.21"
+    "@types/express": "^4.17.21",
+    "@types/lowdb": "^1.0.15"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
@@ -26,7 +27,7 @@
     "ora": "^8.1.1",
     "terminal-image": "^3.0.0",
     "tsx": "^4.19.2",
-    "uuid": "^11.0.2",
+    "uuid": "^11.1.0",
     "zod": "^3.23.8"
   },
   "description": "[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/ai-agents/) # Build an AI Agent from Scratch Workshop",

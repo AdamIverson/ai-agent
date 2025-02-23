@@ -36,7 +36,7 @@ export const runAgent = async ({
 
     if (response.content) {
       loader.stop()
-      return getMessages()
+      return response.content
     }
 
     if (response.tool_calls) {
