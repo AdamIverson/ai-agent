@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "start": "npx tsx index.ts",
-    "server": "npx tsx src/server.ts"
+    "server": "npx tsx src/server.ts",
+    "reset-db": "npx tsx src/resetDb.ts"
   },
   "overrides": {
     "whatwg-url": "13.0.0"
@@ -26,6 +27,7 @@
     "openai": "^4.70.3",
     "ora": "^8.1.1",
     "terminal-image": "^3.0.0",
+    "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "uuid": "^11.1.0",
     "zod": "^3.23.8"
